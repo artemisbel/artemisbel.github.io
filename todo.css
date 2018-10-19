@@ -39,3 +39,7 @@
 .priority-low {
     border-left: 5px green solid;
 }
+
+.btn-container .btn {
+    margin-bottom: 15px
+}
