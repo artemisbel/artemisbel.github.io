@@ -1,0 +1,39 @@
+.news-title { 
+    font-size: 1em;
+    font-weight: bold;
+    font-family: monospace;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding-left: 20px;
+}
+
+.news-regular {
+    background-color: blue;
+}
+
+
+
+.news-breaking {background-color: red;
+}
+
+.news-content {
+    font-size: 0.9em;
+    font-family: 'Times New Roman';
+    border: 1px solid black;
+    border-left: 1 px solid black
+}
+
+
+
+
+
+h1 { 
+    color: red;
+    font-size: 1em;
+    text-decoration: underline
+}
+
+p {
+    font size: 1.2em;
+    border: 1px solid yellowgreen;
+}

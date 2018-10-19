@@ -1,0 +1,45 @@
+.thumbnail{
+    width: 69px
+}
+
+.menuitem{
+    list-style: none;
+    font-size: 2em;
+    background-color:lightgray;
+    border-radius: 8px;
+}
+
+.hortizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+
+.box-150 {
+    width: 150px;
+    height: 150px;
+}
+
+.color-blue {
+    border: 2px solid darkblue;
+    background: lightblue;
+}
+
+.color-red {
+    border: 5px dotted pink;
+    background: red;
+}

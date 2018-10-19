@@ -1,0 +1,41 @@
+.container {
+    margin-top: 30px;
+    color: grey;
+    background-color: lavenderblush;
+}
+
+.header{
+    font-family: Charmonman; cursive;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 3em;
+    text-decoration: underline;
+}
+
+.pad{
+    padding-top:20px;
+}
+
+.position {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.right-justify {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.priority-high {
+    border-left: 5px red solid;
+}
+
+.priority-medium {
+    border-left: 5px yellow solid;
+}
+
+.priority-low {
+    border-left: 5px green solid;
+}
